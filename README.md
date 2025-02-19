@@ -1,9 +1,11 @@
 # Java
+
 ## Java Topics:
-ArrayList
-AutoBoxing
-DateAndTime
-Enum
-Generics
-Interface
-LinkedList
+
+- ArrayList
+- AutoBoxing
+- DateAndTime
+- Enum
+- Generics
+- Interface
+- LinkedList
